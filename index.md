@@ -1,4 +1,4 @@
-![My Logo](https://raw.githubusercontent.com/Chronomly/chronomly.github.io/master/images/pic.png)
+<!-- ![My Logo](https://raw.githubusercontent.com/Chronomly/chronomly.github.io/master/images/pic.png) -->
 
 ## Welcome to my little corner of GitHub!
 
