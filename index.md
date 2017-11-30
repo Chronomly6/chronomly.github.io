@@ -1,6 +1,6 @@
 <!-- ![My Logo](https://raw.githubusercontent.com/Chronomly/chronomly.github.io/master/images/pic.png) -->
 
-## Welcome to my little corner of GitHub!
+## Welcome to my little corner of the internet!
 
 I am a progrmamer who does JavaScript and Lua
 
