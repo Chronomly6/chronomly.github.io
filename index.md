@@ -1,17 +1,17 @@
 <!-- ![My Logo](https://raw.githubusercontent.com/Chronomly/chronomly.github.io/master/images/pic.png) -->
 
-## Welcome to my little corner of the internet!
+## Chronomly
 
-I am a progrmamer who does JavaScript and Lua
+Founder of @SmoreSoftware & @QuantumDevs
 
 ### Work
 
-I work for [SmoreSoftware](https://github.com/SmoreSoftware), A discord bot development company, which I founded, but now am just a dev for.
-
+I stream VRChat & Minecraft on [Twitch](https://twitch.tv/chronomlycodes).
+I work for [SmoreSoftware](https://github.com/SmoreSoftware), A discord bot development 
 I founded [Quantum](https://github.com/QuantumChatApp), the open-source chat service for computer enthusiasts.
 
 ### Support or Contact
 
-Discord: https://discord.gg/YH2RV2P
+Discord: https://discord.gg/8QrphgX
 
 Email: chronomly@gmail.com
