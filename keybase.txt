@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/chronomly
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chronomly.me
+  * I am chronomly (https://keybase.io/chronomly) on keybase.
+  * I have a public key ASBTVkF-q7XiPZNc26zzNjP9DJFoKAdGSayTSIMptt7s3wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205356417eabb5e23d935cdbacf33633fd0c916828074649ac93488329b6deecdf0a",
+      "host": "keybase.io",
+      "kid": "01205356417eabb5e23d935cdbacf33633fd0c916828074649ac93488329b6deecdf0a",
+      "uid": "81d9f96fc1646e2b2b91f4204e1c1519",
+      "username": "chronomly"
+    },
+    "merkle_root": {
+      "ctime": 1542570954,
+      "hash": "ab01fa389822a8c0cf026c8d257bd4d69eb84d353651b4ccd4a1dacf23576d6c254949a9fd422c81c820b6bdfe937f68c9450505c8c2b228fce29ca1358d51f7",
+      "hash_meta": "41b7e6ef9c31acb9a7090b5a74b44bbb8bea39c8e9d92620bbd50dd0043fc9e2",
+      "seqno": 3973064
+    },
+    "service": {
+      "entropy": "yUALjd7OtjH6ydr5FUkzFX3U",
+      "hostname": "chronomly.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.10.0"
+  },
+  "ctime": 1542570987,
+  "expire_in": 504576000,
+  "prev": "4fbd3557bc7e8f3d6132ec304fb9afb9de00fda5b087d23d649389e3f7361278",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgU1ZBfqu14j2TXNus8zYz/QyRaCgHRkmsk0iDKbbe7N8Kp3BheWxvYWTESpcCHMQgT701V7x+jz1hMuwwT7mvud4A/aWwh9I9ZJOJ4/c2EnjEIK9byEBLzPXQo7j1TTUhcy0uA93BoVXSpcPmNciA7PV6AgHCo3NpZ8RAekHi6DvubhTAkvWGxNyJlpH9rR1QtlXK4NGGHV5trpsJpoFtKEgLCen3R+dOX2beHF4uhVUCBYhBU8vApjHnDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIvEgJJvcy+dcwwrJAZ0gt+x2JHOhqbvo5l0mHoI2GIAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chronomly
+
+==================================================================
