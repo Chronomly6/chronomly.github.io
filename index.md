@@ -6,7 +6,7 @@ I stream lots of different games on Twitch. I also do some software development.
 
 ### Work
 
-I stream VRChat & Minecraft on [Twitch](https://twitch.tv/chronomlycodes).
+I stream on [Twitch](https://twitch.tv/iamverygrey).
 I founder for [SmoreSoftware](https://github.com/SmoreSoftware), A discord bot development 
 I founded [Disilla](https://github.com/DisillaCorporation), the open-source chat service for computer enthusiasts.
 
