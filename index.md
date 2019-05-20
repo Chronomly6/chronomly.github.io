@@ -10,7 +10,7 @@ I stream on [Twitch](https://twitch.tv/iamverygrey).
 
 ~~I founded [SmoreSoftware](https://github.com/SmoreSoftware), A discord bot development~~
 
-I founded [Disilla](https://github.com/DisillaCorporation), the open-source chat service for computer enthusiasts.
+I founded [Disilla](https://github.com/DisillaCorporation), the open-source chat service.
 
 ### Support or Contact
 
