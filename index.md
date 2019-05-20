@@ -8,9 +8,9 @@ I stream lots of different games on Twitch. I also do some software development.
 
 I stream on [Twitch](https://twitch.tv/iamverygrey).
 
-~~I founded [SmoreSoftware](https://github.com/SmoreSoftware), a Discord bot development group.~~
-
 I founded [Disilla](https://github.com/DisillaCorporation), the open-source chat service.
+
+~~I founded [SmoreSoftware](https://github.com/SmoreSoftware), a Discord bot development group.~~
 
 ### Support or Contact
 
